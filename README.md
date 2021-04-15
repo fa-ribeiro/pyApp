@@ -3,8 +3,7 @@
 [![image](https://img.shields.io/travis/com/fa-ribeiro/pyApp?branch=main)](https://github.com/fa-ribeiro/pyApp)
 [![image](https://img.shields.io/github/license/fa-ribeiro/pyApp)](https://github.com/fa-ribeiro/pyApp)
 [![image](https://img.shields.io/github/languages/code-size/fa-ribeiro/pyApp)](https://github.com/fa-ribeiro/pyApp)
-[![image](https://img.shields.io/github/pipenv/locked/python-version/fa-ribeiro/pyApp)](https://github.com/fa-ribeiro/pyApp)l
-
+[![image](https://img.shields.io/github/pipenv/locked/python-version/fa-ribeiro/pyApp)](https://github.com/fa-ribeiro/pyApp)
 [![image](https://img.shields.io/github/pipenv/locked/dependency-version/fa-ribeiro/pyApp/dev/flake8)](https://github.com/fa-ribeiro/pyApp)
 [![image](https://img.shields.io/github/pipenv/locked/dependency-version/fa-ribeiro/pyApp/dev/black)](https://github.com/fa-ribeiro/pyApp)
 [![image](https://img.shields.io/github/pipenv/locked/dependency-version/fa-ribeiro/pyApp/dev/pytest)](https://github.com/fa-ribeiro/pyApp)
