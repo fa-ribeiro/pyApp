@@ -1,0 +1,16 @@
+ncsudo: required
+
+language: python
+
+python:
+  - 3.6
+  - 3.9
+
+install:
+  - pip install mypy
+  - pip install pipenv
+  - pipenv install --dev
+
+script:
+  - pipenv run mypy pyapp
+  - pipenv run pytest
