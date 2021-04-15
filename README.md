@@ -10,6 +10,7 @@
 [![image](https://img.shields.io/github/pipenv/locked/dependency-version/fa-ribeiro/pyApp/dev/pytest)](https://github.com/fa-ribeiro/pyApp)
 [![image](https://img.shields.io/github/pipenv/locked/dependency-version/fa-ribeiro/pyApp/dev/pytest-cov)](https://github.com/fa-ribeiro/pyApp)
 [![image](https://img.shields.io/github/pipenv/locked/dependency-version/fa-ribeiro/pyApp/dev/bandit)](https://github.com/fa-ribeiro/pyApp)
+[![image](https://img.shields.io/github/pipenv/locked/dependency-version/fa-ribeiro/pyApp/dev/mypy)](https://github.com/fa-ribeiro/pyApp)
 
 PyApp is a python application boilerplate capable of doing wonderful things.
 
