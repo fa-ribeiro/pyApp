@@ -3,7 +3,7 @@ PyApp main module.
 """ ""
 
 
-class PyApp(object):
+class PyApp():
     """PyApp is a class capable of doing wonderful things."""
 
     def __init__(self):
